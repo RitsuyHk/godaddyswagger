@@ -1,1 +1,1 @@
-# godaddyswagger
+Godaddy DOM XSS POC
